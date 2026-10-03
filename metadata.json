@@ -1,0 +1,6 @@
+{
+  "name": "CoolShift Buddy",
+  "description": "Real-time heat risk alerts, hydration reminders, facility finder, and automated heat exposure logbook for outdoor gig and informal workers in Tamil Nadu.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
